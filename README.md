@@ -12,7 +12,7 @@ I’m a seasoned Software Engineer with over a decade of experience specializing
 - **Other**: Team Leadership, Payment Gateway Integration, Performance Optimization
 
 ## 🏆 Notable Projects
--**Mickaido-POS**: Led the development of a new platform
+- **Mickaido-POS**: Led the development of a new platform
 - **Ariax**: Led the development of a new platform for Ascensor, improving performance by optimizing database queries and server configurations.
 - **Mickai**: Migrated legacy code to modern PHP standards, resulting in a 40% improvement in maintainability.
 - **Ovia**: Contributed to the development of a full-featured Hotel Management System.
