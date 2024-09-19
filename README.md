@@ -22,8 +22,8 @@ I’m a seasoned Software Engineer with over a decade of experience specializing
 - Improving backend performance with advanced caching techniques.
 
 ## 📊 GitHub Stats
-![ascthusitha](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![ascthusitha](https://github-readme-stats.vercel.app/api?username=ascthusitha&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect!
-- LinkedIn:https://www.linkedin.com/in/thusithawanasingha/
+- LinkedIn: https://www.linkedin.com/in/thusithawanasingha/
 - Email: (mailto:dananjayata@gmail.com)
